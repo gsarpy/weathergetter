@@ -1,0 +1,11 @@
+{
+  "name": "openweather",
+  "version": "1.0.0",
+  "description": "A simple app that gives you basic weather data for a city or zip code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregory Sarpy",
+  "license": "MIT"
+}
