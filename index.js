@@ -11,6 +11,10 @@ function getWeather() {
   let city = document.getElementById('city').value;
   let fullPath = api + city + "&APPID=" + apiKey + units;
 
+  /*
+    Log it to see if it's grabbing the city from the API
+    Probably unnecessary but I had it there for testing.
+  */
   console.log(city);
 
   $.getJSON(fullPath, function(weatherData) {
