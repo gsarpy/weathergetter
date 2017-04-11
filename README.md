@@ -13,4 +13,9 @@ I will refactor and refine the features for this over time, like I'm pretty sure
   - Ability to create an account and save your preferred location
   - Once account creation is in place I'll add the ability to create multiple locations so you can see more than one at a time.
   - Eventually I'll add 5-day forecasts.
-  
+
+
+### Technology Used:
+  - ES6 JavaScript for primary app
+  - jQuery for grabbing API data
+  - OpenWeatherMap.com as my API resource
