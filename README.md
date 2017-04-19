@@ -16,7 +16,7 @@ I will refactor and refine the features for this over time, like I'm pretty sure
 
 
 ### Technology Used:
-  - ES6 JavaScript for primary app
-  - jQuery for grabbing API data
-  - OpenWeatherMap.com as my API resource
-	- Bootstrap CSS for low-effort layout design
+- ES6 JavaScript for primary app
+- jQuery for grabbing API data
+- OpenWeatherMap.com as my API resource
+- Bootstrap CSS for low-effort layout design
