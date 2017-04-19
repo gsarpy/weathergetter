@@ -7,7 +7,7 @@ It's very straight forward; I create a couple `const` declarations containing th
 I will refactor and refine the features for this over time, like I'm pretty sure I can find a better way of printing this data to the DOM that doesn't include 4 lines of `document.getElementById('');`.
 
 ## See it in action:
-[Weather Getter](http://www.gsarpy.com/weathergetter)
+[Weather Getter](http://www.gsarpy.com/weather)
 
 # Future Plans
   - Create custom icons/artwork to visually represent the weather and conditions
